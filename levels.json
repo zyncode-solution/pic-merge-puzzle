@@ -1,0 +1,549 @@
+{
+  "updatedAt": "2026-10-20",
+  "levels": [
+    {
+      "id": 1,
+      "level": 1,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_1.jpg",
+      "duration": 210
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_2.jpg",
+      "duration": 210
+    },
+    {
+      "id": 3,
+      "level": 3,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_3.jpg",
+      "duration": 210
+    },
+    {
+      "id": 4,
+      "level": 4,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_4.jpg",
+      "duration": 210
+    },
+    {
+      "id": 5,
+      "level": 5,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_5.jpg",
+      "duration": 210
+    },
+    {
+      "id": 6,
+      "level": 6,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_6.jpg",
+      "duration": 210
+    },
+    {
+      "id": 7,
+      "level": 7,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_7.jpg",
+      "duration": 210
+    },
+    {
+      "id": 8,
+      "level": 8,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_8.jpg",
+      "duration": 210
+    },
+    {
+      "id": 9,
+      "level": 9,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_9.jpg",
+      "duration": 210
+    },
+    {
+      "id": 10,
+      "level": 10,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_10.jpg",
+      "duration": 210
+    },
+    {
+      "id": 11,
+      "level": 11,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_11.jpg",
+      "duration": 210
+    },
+    {
+      "id": 12,
+      "level": 12,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_12.jpg",
+      "duration": 210
+    },
+    {
+      "id": 13,
+      "level": 13,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_13.jpg",
+      "duration": 210
+    },
+    {
+      "id": 14,
+      "level": 14,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_14.jpg",
+      "duration": 210
+    },
+    {
+      "id": 15,
+      "level": 15,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_15.jpg",
+      "duration": 210
+    },
+    {
+      "id": 16,
+      "level": 16,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_16.jpg",
+      "duration": 210
+    },
+    {
+      "id": 17,
+      "level": 17,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_17.jpg",
+      "duration": 210
+    },
+    {
+      "id": 18,
+      "level": 18,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_18.jpg",
+      "duration": 210
+    },
+    {
+      "id": 19,
+      "level": 19,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_19.jpg",
+      "duration": 210
+    },
+    {
+      "id": 20,
+      "level": 20,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_20.jpg",
+      "duration": 210
+    },
+    {
+      "id": 21,
+      "level": 21,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_21.jpg",
+      "duration": 210
+    },
+    {
+      "id": 22,
+      "level": 22,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_22.jpg",
+      "duration": 210
+    },
+    {
+      "id": 23,
+      "level": 23,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_23.jpg",
+      "duration": 210
+    },
+    {
+      "id": 24,
+      "level": 24,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_24.jpg",
+      "duration": 210
+    },
+    {
+      "id": 25,
+      "level": 25,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_25.jpg",
+      "duration": 210
+    },
+    {
+      "id": 26,
+      "level": 26,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_26.jpg",
+      "duration": 210
+    },
+    {
+      "id": 27,
+      "level": 27,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_27.jpg",
+      "duration": 210
+    },
+    {
+      "id": 28,
+      "level": 28,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_28.jpg",
+      "duration": 210
+    },
+    {
+      "id": 29,
+      "level": 29,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_29.jpg",
+      "duration": 210
+    },
+    {
+      "id": 30,
+      "level": 30,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_30.jpg",
+      "duration": 210
+    },
+    {
+      "id": 31,
+      "level": 31,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_31.jpg",
+      "duration": 210
+    },
+    {
+      "id": 32,
+      "level": 32,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_32.jpg",
+      "duration": 210
+    },
+    {
+      "id": 33,
+      "level": 33,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_33.jpg",
+      "duration": 210
+    },
+    {
+      "id": 34,
+      "level": 34,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_34.jpg",
+      "duration": 210
+    },
+    {
+      "id": 35,
+      "level": 35,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_35.jpg",
+      "duration": 210
+    },
+    {
+      "id": 36,
+      "level": 36,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_36.jpg",
+      "duration": 210
+    },
+    {
+      "id": 37,
+      "level": 37,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_37.jpg",
+      "duration": 210
+    },
+    {
+      "id": 38,
+      "level": 38,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_38.jpg",
+      "duration": 210
+    },
+    {
+      "id": 39,
+      "level": 39,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_39.jpg",
+      "duration": 210
+    },
+    {
+      "id": 40,
+      "level": 40,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_40.jpg",
+      "duration": 210
+    },
+    {
+      "id": 41,
+      "level": 41,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_41.jpg",
+      "duration": 210
+    },
+    {
+      "id": 42,
+      "level": 42,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_42.jpg",
+      "duration": 210
+    },
+    {
+      "id": 43,
+      "level": 43,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_43.jpg",
+      "duration": 210
+    },
+    {
+      "id": 44,
+      "level": 44,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_44.jpg",
+      "duration": 210
+    },
+    {
+      "id": 45,
+      "level": 45,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_45.jpg",
+      "duration": 210
+    },
+    {
+      "id": 46,
+      "level": 46,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_46.jpg",
+      "duration": 210
+    },
+    {
+      "id": 47,
+      "level": 47,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_47.jpg",
+      "duration": 210
+    },
+    {
+      "id": 48,
+      "level": 48,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_48.jpg",
+      "duration": 210
+    },
+    {
+      "id": 49,
+      "level": 49,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_49.jpg",
+      "duration": 210
+    },
+    {
+      "id": 50,
+      "level": 50,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_50.jpg",
+      "duration": 210
+    },
+    {
+      "id": 51,
+      "level": 51,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_51.jpg",
+      "duration": 210
+    },
+    {
+      "id": 52,
+      "level": 52,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_52.jpg",
+      "duration": 210
+    },
+    {
+      "id": 53,
+      "level": 53,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_53.jpg",
+      "duration": 210
+    },
+    {
+      "id": 54,
+      "level": 54,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_54.jpg",
+      "duration": 210
+    },
+    {
+      "id": 55,
+      "level": 55,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_55.jpg",
+      "duration": 210
+    },
+    {
+      "id": 56,
+      "level": 56,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_56.jpg",
+      "duration": 210
+    },
+    {
+      "id": 57,
+      "level": 57,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_57.jpg",
+      "duration": 210
+    },
+    {
+      "id": 58,
+      "level": 58,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_58.jpg",
+      "duration": 210
+    },
+    {
+      "id": 59,
+      "level": 59,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_59.jpg",
+      "duration": 210
+    },
+    {
+      "id": 60,
+      "level": 60,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_60.jpg",
+      "duration": 210
+    },
+    {
+      "id": 61,
+      "level": 61,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_61.jpg",
+      "duration": 210
+    },
+    {
+      "id": 62,
+      "level": 62,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_62.jpg",
+      "duration": 210
+    },
+    {
+      "id": 63,
+      "level": 63,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_63.jpg",
+      "duration": 210
+    },
+    {
+      "id": 64,
+      "level": 64,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_64.jpg",
+      "duration": 210
+    },
+    {
+      "id": 65,
+      "level": 65,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_65.jpg",
+      "duration": 210
+    },
+    {
+      "id": 66,
+      "level": 66,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_66.jpg",
+      "duration": 210
+    },
+    {
+      "id": 67,
+      "level": 67,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_67.jpg",
+      "duration": 210
+    },
+    {
+      "id": 68,
+      "level": 68,
+      "rows": 5,
+      "cols": 5,
+      "image": "images/level_68.jpg",
+      "duration": 210
+    }
+  ]
+}
