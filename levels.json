@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-20",
   "levels": [
     {
       "id": 1,
@@ -30,7 +30,7 @@
       "level": 4,
       "rows": 5,
       "cols": 5,
-      "image": "images/level_4.jpg",
+      "image": "images/level_2064.jpg",
       "duration": 210
     },
     {
